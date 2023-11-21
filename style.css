@@ -1,0 +1,30 @@
+.text {
+    margin-left: 10px;
+}
+.pep {
+    background-color: beige;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    overflow: hidden; 
+    width: 750px;
+}
+.lol {
+    display: flex;
+}
+.coll {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.peps {
+    background-color: beige;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    overflow: hidden; 
+    width: 200px;
+    
+}
+.pop {
+    margin-left: 300px;
+}
